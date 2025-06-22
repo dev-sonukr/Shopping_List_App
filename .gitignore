@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+*.xml
+*.xml
+*.log
+*.xml
+.idea/misc.xml
+.idea/misc.xml
